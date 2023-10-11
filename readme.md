@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <a href="raulgodii13@gmail.com" target="_blank">
+  <a href="mailto:raulgodii13@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="10%" alt="gmail logo"/>
   </a>
   <img width="15%" />
