@@ -1,9 +1,9 @@
-![Design and Development](https://github.com/raulgodii/raulgodii/blob/main/img/name.gif)d
+![Design and Development](https://github.com/raulgodii/raulgodii/blob/main/img/name.gif)
 
 
 ###
 
-<p align="left">Welcome to my GitHub page! My name is Raúl. Right now, I'm studying DAW (💻 Web Application Development) at I.E.S Francisco Ayala (📍 Granada). I`m always learning new things and exploring new horizons in the world of informatics.</p>
+<p align="left"><b>Welcome to my GitHub page! My name is Raúl. Right now, I'm studying DAW (💻Web Application Development) at I.E.S Francisco Ayala (📍Granada). I`m always learning new things and exploring new horizons in the world of informatics.</b></p>
 
 ###
 
@@ -61,10 +61,10 @@
 ###
 
 <div align="center">
-  <a href="raulgodii13@gmail.com" target="_blank">
+  <a href="raulgodii13@gmail.com" target="_blank" width="50%">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://t.me/raulgodii" target="_blank">
+  <a href="https://t.me/raulgodii" target="_blank" width="50%">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
