@@ -61,11 +61,11 @@
 ###
 
 <div align="center">
-  <a href="raulgodii13@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="10%" alt="gmail logo" style="margin: 30px"/>
+  <a href="raulgodii13@gmail.com" style="margin: 30px" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="10%" alt="gmail logo"/>
   </a>
-  <a href="https://t.me/raulgodii" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="10%" alt="telegram logo" style="margin: 30px"/>
+  <a href="https://t.me/raulgodii" style="margin: 30px" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="10%" alt="telegram logo"/>
   </a>
 </div>
 
