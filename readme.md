@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📍  Valdepeñas, Ciudad Real<br>📚  Student of DAW<br>🪪  21 years old<br>🖥️  Passionate about coding</p>
+<p align="left">📍  Valdepeñas, Ciudad Real<br>🪪  21 years old<br>🖥️  Full-Stack Developer</p>
 
 ###
 
