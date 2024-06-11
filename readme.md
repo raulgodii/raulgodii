@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left"><b>Welcome to my GitHub page! My name is Raúl. Right now, I'm studying DAW (💻Web Application Development) at I.E.S Francisco Ayala (📍Granada). I`m always learning new things and exploring new horizons in the world of informatics.</b></p>
+<p align="left"><bWelcome to my GitHub page! My name is Raúl González Díaz, a passionate web developer continuously exploring new horizons in the world of technology. </b></p>
 
 ###
 
