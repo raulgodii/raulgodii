@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left"><b>Welcome to my GitHub page! My name is Raúl González Díaz, a passionate web developer continuously exploring new horizons in the world of technology. </b></p>
+<p align="left"><b>Welcome to my GitHub page! I'm Raúl González Díaz — Full-Stack Developer focused on building modern web apps that are fast, usable and easy to maintain.</b></p>
 
-## My personal website: [https://raulgonzalez.site](https://raulgonzalez.site)
+## 🌐 My personal website: [https://raulgonzalezdiaz.com](https://raulgonzalezdiaz.com)
 
 ###
 
@@ -12,50 +12,7 @@
 
 ###
 
-<p align="left">📍  Valdepeñas, Ciudad Real<br>🪪  21 years old<br>🖥️  Full-Stack Developer<br>👔 Working at <a href="https://firmafy.com" target="_blank">Firmafy</a></p>
-
-###
-
-<h2 align="left">🔧 My tech toolbox:</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
-
-###
-
-<h2 align="left">📈 My Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=raulgodii&locale=en&mode=daily&theme=city_lights&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raulgodii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=city_lights&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="left">📍  Based in Tenerife, Spain<br>🖥️  Full-Stack Developer (Laravel + React)<br>👔 Currently working at <a href="https://firmafy.com" target="_blank">Firmafy</a></p>
 
 ###
 
@@ -73,4 +30,3 @@
   </a>
 </div>
 
-###
